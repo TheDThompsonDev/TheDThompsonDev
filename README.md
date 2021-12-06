@@ -1,7 +1,7 @@
 ### Hi there 👋 Thank you for checking out my profile!
 WIP 
 
-<a href="https://twitter.com/DThompsonDev"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/DThompsonDev?label=Twitter&style=for-the-badge&logo=twitter&color=1DA1F2"> </a><a href="https://www.linkedin.com/in/dannythompson901/"><img alt="Linkedin" src="https://img.shields.io/badge/Linkedin-follow-blue">&nbsp;<a href="https://www.youtube.com/channel/UC8ha68gfkmh5v2a2BAx7low"><img alt="YouTube Channel Views" src="https://img.shields.io/youtube/channel/views/UC8ha68gfkmh5v2a2BAx7low?style=for-the-badge&logo=youtube&label=YOUTUBE VIEWS">&nbsp;<img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UC8ha68gfkmh5v2a2BAx7low?style=for-the-badge&logo=youtube&label=YOUTUBE"></a>
+<a href="https://twitter.com/DThompsonDev"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/DThompsonDev?label=Twitter&style=for-the-badge&logo=twitter&color=1DA1F2"> </a><a href="https://www.linkedin.com/in/dannythompson901/"><img alt="Linkedin" src="https://img.shields.io/static/v1?style=for-the-badge&logo=linkedin&label=Linkedin&message=Follow&color=blue">&nbsp;<a href="https://www.youtube.com/channel/UC8ha68gfkmh5v2a2BAx7low"><img alt="YouTube Channel Views" src="https://img.shields.io/youtube/channel/views/UC8ha68gfkmh5v2a2BAx7low?style=for-the-badge&logo=youtube&label=YOUTUBE VIEWS">&nbsp;<img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UC8ha68gfkmh5v2a2BAx7low?style=for-the-badge&logo=youtube&label=YOUTUBE"></a>
 
 <!--
 **dannythompson901/dannythompson901** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
