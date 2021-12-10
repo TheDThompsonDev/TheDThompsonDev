@@ -1,8 +1,8 @@
 <!-- Headline -->
-# Hi there 👋 I am Danny aka DThompsonDev! <img style="height:30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" />
+# Hi there 👋 I am Danny! <img style="height:30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" />
 
 <!-- Body of Text Under Headline-->
-Thank you for checking out my profile! I am a Software Developer who has a passion for helping others. As of December of 2021, I have helped over 700 people land their first jobs in tech. I am currently working on creating more resources in my free time for beginners entering tech.
+I am a Software Developer who has a passion for helping others. As of December of 2021, I have helped over 700 people land their first jobs in tech. I am currently working on creating more resources in my free time for beginners entering tech. I have taught at several bootcamps and have worked for some very large companies as well as one of the largest tech companies in the world. Development is something I truly enjoy and hope to keep working on interesting projects!
 <br /> <br />
 ## My Current Tech Stack professionally is <br /> <img style="height:100px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" /> <img style="height:100px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" /> <img style="height:100px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" /> <br />
 
