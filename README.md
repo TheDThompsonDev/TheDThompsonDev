@@ -4,7 +4,7 @@
 #  Danny Thompson
 **Director of Technology | AI Developer | Author | Keynote Speaker**
 
-**[https://www.DThompsonDev.com](https://dthompsondev.com)**
+**[https://www.DThompsonDev.com](https://www.dthompsondev.com)**
 
 [<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/DThompsonDev)
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/dthompsondev/)
@@ -16,29 +16,28 @@
 
 </div>
 
+
 ## The Professional Portfolio
 <table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h4>Enterprise Leadership</h4>
-      <ul>
-        <li><b>Director of Tech @ This Dot Labs:</b> Leading architectural strategy for Fortune 500 digital transformations.</li>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>Enterprise Leadership</h4>
+      <ul>
+        <li><b>Director of Tech @ This Dot Labs:</b> Leading architectural strategy for Fortune 500 digital transformations.</li>
         <li><b>AI Specialist:</b> Designing production-ready LLM implementations and AI-driven developer workflows.</li>
         <li><b>Scalability Expert:</b> Proven track record in Java/Spring, Go, and React architectures.</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h4>Published Authority</h4>
-      <ul>
-        <li><b>The Developer's Guide to AI:</b> Published by <i>No Starch Press</i>a roadmap for engineers leveraging AI.</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h4>Published Authority</h4>
+      <ul>
+       <li><b>The Developer's Guide to AI:</b> Published by [No Starch Press](http://developersguide.ai/) a roadmap for engineers leveraging AI.</li>
         <li><b>The Commit Your Code Conference For Charity:</b> Founder of the premier developer conference in Dallas, TX that had over 8,000 attendees.</li>
         <li><b>1,000+ Careers:</b> Strategically guided over 1,000 developers into high-paying tech roles.</li>
-      </ul>
-    </td>
-  </tr>
+      </ul>
+    </td>
+  </tr>
 </table>
-
----
 
 ## Strategic Technology Stack
 <div align="center">
@@ -93,7 +92,7 @@ graph LR
 ### 🤝 Let's Collaborate
 *Architectural Consulting • Speaking Inquiries • Strategic Mentorship*
 
-**[dthompsondev.com](https://dthompsondev.com)**
+**[DThompsonDev.com](https://www.dthompsondev.com)**
 
 *One specific question for you: What is the one technical skill you wish you had mastered last year?*
 
