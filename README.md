@@ -1,29 +1,100 @@
-<!-- Headline -->
-# Hi there 👋 I am Danny! <img style="height:30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" />
 
-<!-- Body of Text Under Headline-->
-I am a Software Developer who has a passion for helping others. As of December of 2021, I have helped over 700 people land their first jobs in tech. I am currently working on creating more resources in my free time for beginners entering tech. I have taught at several bootcamps and have worked for some very large companies as well as one of the largest tech companies in the world. Development is something I truly enjoy and hope to keep working on interesting projects!
-<br /> <br />
-## My Current Tech Stack professionally is <br />  <img style="height:100px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" /> <img style="height:100px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" /> <img style="height:100px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" /> <br />
+<div align="center">
 
- ## Languages & Tools I Have Utilized <br />
- I have spent a lot of time with Frontend in a teaching capacity. I try to showcase ways for beginners to really take advantage of frontend techniques but I feel my real strength is in backend. <br /> <br /><!-- 
-Most Used Languages Infograph then Tools & Languages--> 
- <a href="https://github.com/dannythompson901">
-  <img align="right" width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheDThompsonDev&layout=compact&theme=react" alt="Top languages" />
-</a>
- <img style="height:50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
- <img style="height:50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
- <img style="height:50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
- <img style="height:50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
- <img style="height:50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
- <img style="height:50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
- <img style="height:50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" />
- <img style="height:50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
- <img style="height:50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" />
- <img style="height:50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" />
- <img style="height:50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
- ___
-<!-- Social Links With follower Counts -->
-<a href="https://twitter.com/DThompsonDev"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/DThompsonDev?label=Twitter!&style=for-the-badge&logo=twitter&color=1DA1F2"> </a><a href="https://www.linkedin.com/in/dthompsondev/"><img alt="Linkedin" src="https://img.shields.io/static/v1?style=for-the-badge&logo=linkedin&label=Linkedin&message=71k&color=blue">&nbsp;<br /><a href="https://www.youtube.com/channel/UC8ha68gfkmh5v2a2BAx7low"><img alt="YouTube Channel Views" src="https://img.shields.io/youtube/channel/views/UC8ha68gfkmh5v2a2BAx7low?style=for-the-badge&logo=youtube&label=YT VIEWS">&nbsp;<img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UC8ha68gfkmh5v2a2BAx7low?style=for-the-badge&logo=youtube&label=YOUTUBE"></a>
+#  Danny Thompson
+**Director of Technology | AI Developer | Author | Keynote Speaker**
 
+**[https://www.DThompsonDev.com](https://dthompsondev.com)**
+
+[<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/DThompsonDev)
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/dthompsondev/)
+[<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />](https://www.youtube.com/channel/UC8ha68gfkmh5v2a2BAx7low)
+
+<img width="1584" height="396" alt="Danny Thompson (1584 × 396 px) (2)" src="https://github.com/user-attachments/assets/a8f57ec6-c080-43e3-9835-84d310289f1f" />
+
+### "Engineering solutions that scale. Empowering the people who build them."
+
+</div>
+
+## The Professional Portfolio
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h4>Enterprise Leadership</h4>
+      <ul>
+        <li><b>Director of Tech @ This Dot Labs:</b> Leading architectural strategy for Fortune 500 digital transformations.</li>
+        <li><b>AI Specialist:</b> Designing production-ready LLM implementations and AI-driven developer workflows.</li>
+        <li><b>Scalability Expert:</b> Proven track record in Java/Spring, Go, and React architectures.</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h4>Published Authority</h4>
+      <ul>
+        <li><b>The Developer's Guide to AI:</b> Published by <i>No Starch Press</i>—a roadmap for engineers mastering AI.</li>
+        <li><b>The Commit Your Code Conference For Charity:</b> Founder of the premier developer conference in Dallas, TX that had over 8,000 attend.</li>
+        <li><b>1,000+ Careers:</b> Strategically guided over 1,000 developers into high-paying tech roles.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+---
+
+## Strategic Technology Stack
+<div align="center">
+
+| Core Ecosystem | Frontend Architecture | Database |
+| :--- | :--- | :--- |
+| ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) | ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) | ![Appwrite](https://img.shields.io/badge/Appwrite-F02D65?style=for-the-badge&logo=appwrite&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white) |
+| ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) | ![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) ![Tailwind](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) | ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) |
+
+</div>
+
+---
+
+## Content & Community
+<div align="center">
+<table width="100%">
+  <tr>
+    <td width="33%" align="center">
+      <b>The Programming Podcast</b><br/>
+      <i>Co-Host with Leon Noel</i>
+    </td>
+    <td width="33%" align="center">
+      <b>Commit Your Talk</b><br/>
+      <i>Free Speaker Mentorship</i>
+    </td>
+    <td width="33%" align="center">
+      <b>Santa Danny</b><br/>
+      <i>Giving back to the community</i>
+    </td>
+  </tr>
+</table>
+</div>
+
+---
+
+
+## 📐 The "Architect-First" Workflow
+*How I bridge the gap between business requirements and high-performance code.*
+```mermaid
+graph LR
+  A[Data & Metric Definition] --> B[Design & Architecture]
+  B --> C[Atomic Implementation]
+  C --> D[Deployment & Scale]
+  style A fill:#0077B5,stroke:#fff,color:#fff
+  style B fill:#0077B5,stroke:#fff,color:#fff
+  style C fill:#0077B5,stroke:#fff,color:#fff
+  style D fill:#0077B5,stroke:#fff,color:#fff
+```
+
+<div align="center">
+
+### 🤝 Let's Collaborate
+*Architectural Consulting • Speaking Inquiries • Strategic Mentorship*
+
+**[dthompsondev.com](https://dthompsondev.com)**
+
+*One specific question for you: What is the one technical skill you wish you had mastered last year?*
+
+</div>
