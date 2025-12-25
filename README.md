@@ -31,7 +31,7 @@
     <td width="50%" valign="top">
       <h4>Published Authority</h4>
       <ul>
-       <li><b>The Developer's Guide to AI:</b> Published by [No Starch Press](http://developersguide.ai/) a roadmap for engineers leveraging AI.</li>
+       <li><b>The Developer's Guide to AI:</b> Published by No Starch Press http://developersguide.ai/ a roadmap for engineers leveraging AI.</li>
         <li><b>The Commit Your Code Conference For Charity:</b> Founder of the premier developer conference in Dallas, TX that had over 8,000 attendees.</li>
         <li><b>1,000+ Careers:</b> Strategically guided over 1,000 developers into high-paying tech roles.</li>
       </ul>
