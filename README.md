@@ -23,7 +23,8 @@
     <td width="50%" valign="top">
       <h4>Enterprise Leadership</h4>
       <ul>
-        <li><b>Director of Tech @ This Dot Labs:</b> Leading architectural strategy for Fortune 500 digital transformations.</li>
+        <li><b>Senior Developer Advocate</b></li>
+        <li><b>Former Director of Technology</b></li>
         <li><b>AI Specialist:</b> Designing production-ready LLM implementations and AI-driven developer workflows.</li>
         <li><b>Scalability Expert:</b> Proven track record in Java/Spring, Go, and React architectures.</li>
       </ul>
