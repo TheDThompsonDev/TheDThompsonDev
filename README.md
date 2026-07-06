@@ -2,7 +2,7 @@
 <div align="center">
 
 #  Danny Thompson
-**Director of Technology | AI Developer | Author | Keynote Speaker**
+**Senior Developer Advocate at Atlassian | Former Director of Technology | AI Developer | Author | Keynote Speaker**
 
 **[https://www.DThompsonDev.com](https://www.dthompsondev.com)**
 
